@@ -47,13 +47,35 @@ Funções IIFE também possuem sintaxes diferentes
 
 ```
 
+---
+
 
 ### Como Funciona o Código :page_with_curl:
 
-O código está em um arquivo chamado index.js. Ele está sendo interpretádo pelo node.js. Dessa maneira, é necessário possuir o interpretador para executar o código.
+O código está em um arquivo chamado `index.js`. Ele está sendo interpretádo pelo `node.js`. Dessa maneira, é necessário possuir o interpretador para executar o código.
+
+1. Instalar o `node.js` pelo site oficial 
+
+2. Abrir arquivo com `node.js`
+
+3. Utilizar o programa! 
 
 
-
-
+---
 
 ### Menções Honrosas :medal_sports:
+Eu aprendi as funções IFFE pelas aulas de JavaScript avançados no youtube. Abaixo vou deixar o link para os vídeos. 
+
+[Brazilian dev](https://www.youtube.com/watch?v=kGbbPBRFCE0&list=PL-R1FQNkywO4sD42B6OI6KjG3uOPT0aNl) --> Playlist completa no youtube
+
+---
+
+Obrigado por ler este readme!
+
+*Qualquer Dúvida ou conselho podem me contactar pelas minhas redes:* 
+ 
+* [Linkedin](https://www.linkedin.com/in/alexandre-bitelo-0bab0824b/)
+
+* [Gmail]("mailto:alexandrebitelo41@gmail.com")
+
+* [Instagram](https://www.instagram.com/biteloalexandre)

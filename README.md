@@ -76,6 +76,6 @@ Obrigado por ler este readme!
  
 * [Linkedin](https://www.linkedin.com/in/alexandre-bitelo-0bab0824b/)
 
-* [Gmail]("https://malito:alexandrebitelo41@gmail.com/")
+* <nav><a href = "mailto: alexandrebitelo41@gmail.com" target="_blank" rel="external" >Gmail</a>
 
 * [Instagram](https://www.instagram.com/biteloalexandre)

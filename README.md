@@ -76,6 +76,6 @@ Obrigado por ler este readme!
  
 * [Linkedin](https://www.linkedin.com/in/alexandre-bitelo-0bab0824b/)
 
-* [Gmail]("mailto:alexandrebitelo41@gmail.com")
+* [Gmail](mailto:alexandrebitelo41@gmail.com)
 
 * [Instagram](https://www.instagram.com/biteloalexandre)

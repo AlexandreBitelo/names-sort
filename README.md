@@ -1,34 +1,33 @@
-# Sorteador de Nomes :jigsaw:
+# Name Sorter :jigsaw:
 
-Esse é um código simples para demosntrar como funcionam as funções **IIFE** *(Immediately Invoked Function Expression)*
+This is a simple code to demonstrate how **IIFE** *(Immediately Invoked Function Expression)* works.
+---
 
+## Summary
+> 1. [What are IIFE functions? :thinking:]()
+
+> 2. [How does the code work? :page_with_curl:]()
+
+> 3. [Special Thanks :medal_sports:]()
 
 ---
 
-## Indice
-> 1. [O Que São Funções IIFE? :thinking:]()
+### What are IIFE functions? :thinking:
+To understand how IIFE functions work, let's first recap a little about how functions work.
 
-> 2. [Como Funciona o Código :page_with_curl:]()
-
-> 3. [Menções Honrosas :medal_sports:]()
-
----
-
-### O Que São Funções IIFE? :thinking: 
-Para entendermos como funcionam as funções IIFE funcionam vamos recapitular um pouco sobre como funcionam as funções.
-
-> "Uma *função* é um bloco de código definido uma vez, mas que pode ser executado (ou chamado) qualquer número de vezes."
+> "A function is a block of JavaScript code that is defined once but may be executed, or invoked, any number of times. "
 **JavaScript The Definitive Guide 6th Edition**
 
-*Funções que não retornam void são chamadas de procedimento* :v::nerd_face:
+*Functions that do not return `void` are called procedures!* :v::nerd_face:
 
-Para você utilizar uma função dentro do seu código é necessária invocalá (ou chamalá), mas diferente das funções convencionais as funções IIFE são funções que não precisam ser invocadas para serem executadas, se comportando como se fossem parte do escopo global do código. 
+To use a function in your code, you need to execute or invoke it. However, unlike conventional functions, IIFE functions do not need to be invoked to be executed; they behave as if they are part of the global scope of the code.
 
-*Por que usar as funções IIFE então?* **Pelo escopo.**
 
-Como as funções tem um escopo local, quando o código terminar de percorrer a função as variáveis criadas dentro da função não continuarão no escopo global do código;
+* Why use the IIFE functios, then? **Because the scope**.
 
-Funções IIFE também possuem sintaxes diferentes
+Since functions have a local scope, once the code finishes executing, the variables created inside the function will not persist in the global scope.
+
+
 ```
 (               
     function () { 
@@ -40,40 +39,43 @@ Funções IIFE também possuem sintaxes diferentes
 
 ```
 (
-    function () <-- parâmetros { 
+    function (parameters) { 
 
     }
-)() <-- entrada de argumentos
+)(arguments) 
 
 ```
 
 ---
 
 
-### Como Funciona o Código :page_with_curl:
+### How does the code work? :page_with_curl:
 
-O código está em um arquivo chamado `index.js`. Ele está sendo interpretádo pelo `node.js`. Dessa maneira, é necessário possuir o interpretador para executar o código.
-
-1. Instalar o `node.js` pelo site oficial 
-
-2. Abrir arquivo com `node.js`
-
-3. Utilizar o programa! 
+The code is in a file called `index.js`. It is interpreted by `node.js`. Therefore, you need to have the interpreter installed to run the code.
 
 
----
+1. Install the `node.js` interpreter from the official website: [node.js](https://nodejs.org/en)
 
-### Menções Honrosas :medal_sports:
-Eu aprendi as funções IFFE pelas aulas de JavaScript avançados no youtube. Abaixo vou deixar o link para os vídeos. 
+2. Open the file using `node.js`
 
-[Brazilian dev](https://www.youtube.com/watch?v=kGbbPBRFCE0&list=PL-R1FQNkywO4sD42B6OI6KjG3uOPT0aNl) --> Playlist completa no youtube
+3. Use the program! :tada:
 
 ---
 
-#### Obrigado por ler este readme!
+### Special Thanks :medal_sports:
+I learned about IIFE functions from advanced JavaScript classes on YouTube. Below, I will provide the link to the complete playlist of videos.
 
-*Qualquer Dúvida ou conselho podem me contactar pelas minhas redes:* 
- 
+
+
+[Brazilian dev](https://www.youtube.com/watch?v=kGbbPBRFCE0&list=PL-R1FQNkywO4sD42B6OI6KjG3uOPT0aNl) --> Complete playlist on YouTube
+
+---
+
+### Thank you for reading! :computer: :smile_cat: :hugs:
+
+*If you have any questions or feedback, please contact me through my networks.*
+
+
 * [Linkedin](https://www.linkedin.com/in/alexandre-bitelo-0bab0824b/)
 
 * <nav><a href = "mailto: alexandrebitelo41@gmail.com" target="_blank" rel="external" >Gmail</a>

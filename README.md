@@ -4,7 +4,7 @@ This is a simple code to demonstrate how **IIFE** *(Immediately Invoked Function
 ---
 
 ## Summary
-> 1. [What are IIFE functions? :thinking:]()
+> 1. [What are IIFE functions? :thinking:](https://github.com/AlexandreBitelo/names-sort/edit/main/README.md###How_does_the_code_work?:page_with_curl:)
 
 > 2. [How does the code work? :page_with_curl:]()
 
